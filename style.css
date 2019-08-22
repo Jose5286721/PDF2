@@ -1,0 +1,58 @@
+.TablaContenido{
+	width:100%; 
+	border-collapse: collapse;
+	text-align: left;
+	 font-family:Montserrat; 
+}
+.TablaContenido thead tr td{
+	background-color:#181E24; 
+	color: white;
+	padding:15px 10px;
+	 font-family:Montserrat; 
+}
+.TablaContenido tr td{
+	background-color:bluesky; 
+	color: black;
+	padding:20px 10px;
+	 font-family:Montserrat; 
+}
+.TablaContenido tr:nth-child(even) td{
+	background-color:#DCD9C1; 
+	color: black;
+	padding:20px 10px;
+	 font-family:Montserrat; 
+
+}
+.tablaPayment{
+	font-size: 10px;
+	width:100%;
+	 font-family:Montserrat; 
+}
+.tablaPayment tr th{
+	text-align:left;
+	 font-family:Montserrat; 
+}
+.tablaPayment tr td{
+	text-align:left;
+	 font-family:Montserrat; 
+}
+.tablaTotales{
+	width: 80%;
+	margin-left: 10%;
+	 font-family:Montserrat; 
+}
+.tablaTotales tr th{
+	padding:5px;
+	text-align: left;
+	 font-family:Montserrat; 
+}
+.tablaTotal{
+	width: 90%;
+	margin-left: 10%;
+	 font-family:Montserrat; 
+}
+.tablaTotal tr th{
+	padding:5px;
+	text-align: left;
+	 font-family:Montserrat; 
+}
